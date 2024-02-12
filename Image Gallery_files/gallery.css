@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(113, 113, 98);
+}
+.img{
+    border-radius: 10px; 
+    border: 2px; 
+    margin: 5px; 
+    padding: 5px;
+    background-color:rgba(255, 255, 255, 0.621);
+}
+.img:hover{
+    background-color: rgb(245, 17, 17); 
+    width: auto;
+    height: auto;
+}
+.gal{
+    background-image: radial-gradient(red, rgb(153, 109, 27));
+    text-align: center; 
+    margin-left: auto; 
+    margin-right: auto;
+}
